@@ -1,0 +1,76 @@
+{
+  "SignInView": {
+    "subTitle": "It's modular and designed to last",
+    "username": "Username",
+    "password": "Password",
+    "dontHaveAccount": "Didn’t have any account?  ",
+    "signUpButton": "Sign Up here",
+    "signInButton": "Sign In",
+    "forgotPass": "Forgot Password",
+    "errorMessage": "Username or Password not correct"
+  },
+
+  "HomeView": {
+    "title": "Hi, ",
+    "subTitle": "What are you looking for today?",
+    "shopNow": "Shop Now",
+    "featuredProducts": "Featured Products"
+  },
+
+  "ProductDetailView": {
+    "appBarTitle": "Product Detail",
+    "tabOverview": "Overview",
+    "tabFeatures": "Features",
+    "tabSpecification": "Specification",
+    "review": "Review",
+    "seeAllReviews": "See All Reviews",
+    "anotherProduct": "Another Product",
+    "addToCartButton": "Add To Cart",
+    "addToCartErrorMessage": "An unexpected error occurred, the product could not be added."
+  },
+
+  "SearchView": {
+    "popularProduct": "Popular product"
+  },
+  "ShoppingCartView": {
+    "appBarTitle": "Shopping Cart",
+    "discoverProducts": "Discover Products",
+    "total": "Total",
+    "product": "Product",
+    "checkout": "Proceed to Checkout"
+  },
+  "ProfileView": {
+    "appBarTitle": "Profile"
+  },
+  "Profile": {
+    "appBarTitle": "Profile",
+    "generalTitle": "General",
+    "editProfileItem": "Edit Profile",
+    "notificationsItem": "Notifications",
+    "languageItem": "Language",
+    "wishlistItem": "Wishlist",
+    "legalTitle": "Legal",
+    "termsOfUseItem": "Terms of Use",
+    "privacyPolicyItem": "Privacy Policy",
+    "personalTitle": "Personal",
+    "reportBugItem": "Report a Bug",
+    "logoutItem": "Logout",
+    "logoutQuestion": "Are You Sure You Want to Log Out?"
+  },
+  "ChangeLanguageView": {
+    "appBarTitle": "Change Language",
+    "enLanguage": "English",
+    "trLanguage": "Turkish",
+    "changeLanguage": "Change Language"
+  },
+
+  "SameKeyword": {
+    "search": "Search",
+    "seeAll": "See All",
+    "ok": "Tamam",
+    "emptyText": "This field cannot be empty",
+    "title": "Audio",
+    "yes": "Evet",
+    "no": "Hayır"
+  }
+}

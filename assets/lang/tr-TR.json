@@ -1,0 +1,69 @@
+{
+  "SignInView": {
+    "subTitle": "Modülerdir ve uzun ömürlü olacak şekilde tasarlanmıştır",
+    "username": "Kullanıcı Adı",
+    "password": "Şifre",
+    "dontHaveAccount": "Hesabınız yok mu?  ",
+    "signUpButton": "Kayıt Ol",
+    "signInButton": "Giriş ",
+    "forgotPass": "Şifremi Unuttum",
+    "errorMessage": "Kullanıcı Adı veya Şifre Hatalı"
+  },
+  "HomeView": {
+    "title": "Merhaba, ",
+    "subTitle": "Bugün ne arıyorsunuz?",
+    "shopNow": "Alışverişe Başla",
+    "featuredProducts": "Öne Çıkanlar"
+  },
+  "ProductDetailView": {
+    "appBarTitle": "Ürün Detayı",
+    "tabOverview": "Genel Bakış",
+    "tabFeatures": "Özellikler",
+    "tabSpecification": "Tanımlama",
+    "review": "Yorum ",
+    "seeAllReviews": "Tüm Yorumları Gör",
+    "anotherProduct": "Diğer Ürünler",
+    "addToCartButton": "Sepete Ekle",
+    "addToCartErrorMessage": "Beklenmedik bir hata oluştu, Ürün eklenemedi"
+  },
+  "SearchView": {
+    "popularProduct": "Çok Satanlar"
+  },
+  "ShoppingCartView": {
+    "appBarTitle": "Sepet",
+    "discoverProducts": "Ürünleri Keşfet",
+    "total": "Toplam",
+    "product": "Ürün",
+    "checkout": "Devam et"
+  },
+  "Profile": {
+    "appBarTitle": "Profil",
+    "generalTitle": "Genel",
+    "editProfileItem": "Profil Düzenle",
+    "notificationsItem": "Bildirimler",
+    "languageItem": "Dil",
+    "wishlistItem": "İstek Listesi",
+    "legalTitle": "Yasal",
+    "termsOfUseItem": "Kullanım Şartları",
+    "privacyPolicyItem": "Gizlilik Politikası",
+    "personalTitle": "Kişisel",
+    "reportBugItem": "Hata Bildir",
+    "logoutItem": "Çıkış Yap",
+    "logoutQuestion": "Çıkış Yapmak İstediğinize Emin Misiniz?"
+  },
+  "ChangeLanguageView": {
+    "appBarTitle": "Dil Değiştir",
+    "enLanguage": "İngilizce",
+    "trLanguage": "Türkçe",
+    "changeLanguage": "Dil Değiştir"
+  },
+  "SameKeyword": {
+    "search": "Ara",
+    "seeAll": "Hepsini Gör",
+    "ok": "Tamam",
+    "emptyText": "Bu alan boş olamaz",
+    "title": "Audio",
+    "yes": "Evet",
+    "no": "Hayır"
+  }
+}
