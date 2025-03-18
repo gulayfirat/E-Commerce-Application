@@ -12,8 +12,8 @@ This project is an e-commerce application developed using Flutter. The applicati
 
 ## 📌 Requirements
 Ensure the following tools are installed before running the project:
-- Flutter SDK (>=3.0.0)
-- Dart (>=2.18.0)
+- Flutter SDK (3.27.0)
+- Dart (3.6.0)
 - Android Studio or VS Code
 - Android/iOS emulator or physical device
 
