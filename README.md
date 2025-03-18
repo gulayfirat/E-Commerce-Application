@@ -8,7 +8,7 @@ This project is an e-commerce application developed using Flutter. The applicati
 - **Caching**: Cache management with Hive
 - **Localization**: Multi-language support with easy_localization
 - **Routing**: Page navigation with auth_route
-- **Dummy API**: Mock data for testing environment
+- **Dummy API**: Fake data for testing environment
 
 ## 📌 Requirements
 Ensure the following tools are installed before running the project:
