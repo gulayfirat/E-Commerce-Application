@@ -25,7 +25,6 @@ Ensure the following tools are installed before running the project:
 - **models/**: Contains the data models used in the application.
 - **service/**: Contains service classes for handling API requests and business logic.
 
-Gerekirse her dizinin içeriği hakkında daha fazla detay ekleyebilirsiniz.
 
 
 ## 🌐 API Usage
