@@ -1,12 +1,9 @@
 import 'dart:developer';
-
-import 'package:dio/dio.dart';
 import 'package:e_commerce_app/core/enums/loading_status.dart';
 import 'package:e_commerce_app/model/addToCartModel/addCartProductModel/add_cart_product_model.dart';
 import 'package:e_commerce_app/model/addToCartModel/add_to_cart_model.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:e_commerce_app/feature/productDetail/viewModel/product_detail_state.dart';
-
 import '../../../core/base/service/base_cache_service.dart';
 import '../../../core/enums/service_path.dart';
 import '../../../model/productModel/product_model.dart';

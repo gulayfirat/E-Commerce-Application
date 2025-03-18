@@ -12,6 +12,7 @@ extension StringExtension on String {
 
 extension SvgExtension on String {
   Widget get toSvg => SvgPicture.asset(this);
+  // ignore: deprecated_member_use
   Widget toColorSvg({Color? color}) => SvgPicture.asset(this, color: color);
 }
 

@@ -1,12 +1,8 @@
-import 'dart:developer';
-
-import 'package:dio/dio.dart';
 import 'package:e_commerce_app/model/cartModel/cartProductModel/cart_product_model.dart';
 import 'package:e_commerce_app/model/cartModel/cart_model.dart';
 import 'package:e_commerce_app/product/dummyData/dummy_cart_list.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:e_commerce_app/feature/shoppingCart/viewModel/shopping_cart_state.dart';
-
 import '../../../core/base/service/base_cache_service.dart';
 import '../../../core/enums/service_path.dart';
 import '../../../model/user/userCacheModel/user_cache_model.dart';
